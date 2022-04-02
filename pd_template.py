@@ -7,7 +7,7 @@ import csv
 api_key = os.environ['PD_API_KEY'] # Must set OS variable of PD_API_Key
 session = APISession(api_key, default_from="EMAIL ADDRESS HERE")
 
-x = input('Services, Users or Incidents? ').capitalize()
+x = input('Events, Incidents, Services, Users? ').capitalize()
 
 def main():
     if x == 'Services':
