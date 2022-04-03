@@ -3,5 +3,5 @@
 ### [Visit us](http://www.madobservability.com)
 ---
 
-- [] Install PDPYRAS library 'pip install pdpyras'
-- [] Set pagerduty API key as an environment variable
+- Install PDPYRAS library 'pip install pdpyras'
+- Set pagerduty API key as an environment variable
