@@ -5,3 +5,6 @@
 
 - Install PDPYRAS library 'pip install pdpyras'
 - Set pagerduty API key as an environment variable
+    - MacOS
+        - sudo vim ~/.zshrc
+        - PD_API_KEY=APIKEY
